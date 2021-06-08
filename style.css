@@ -184,5 +184,12 @@ body {
 
 #programming-tools {
   letter-spacing: 5px;
-  /* color: #03a9f4; */
+}
+
+#javascript {
+  letter-spacing: 0;
+}
+#jquery {
+  font-size: 3.6rem;
+  letter-spacing: 0;
 }
